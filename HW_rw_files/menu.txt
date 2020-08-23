@@ -1,0 +1,4 @@
+1.pizza quatro stagioni|100|mdl
+2.salad|30|mdl
+3.juice|20|mdl
+4.beer|30|mdl
